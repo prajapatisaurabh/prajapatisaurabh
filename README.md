@@ -4,7 +4,7 @@ I'm a Java developer with knowledge in Java, SpringBoot, Spring MVC, Spring Data
 
 ## Visite my website 
 - [ThitaInfo](https://thitainfo.com/)
-- [Portfolio](https://saurabh-saurabh.github.io/saurabhprajapati-portfolio/)
+- [Portfolio](https://saurabhprajapati.in/)
 
 
 ## 🔭 Skills
