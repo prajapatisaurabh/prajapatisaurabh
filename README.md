@@ -57,7 +57,7 @@ A private, offline expense tracker and daily diary for Android. Track income and
 
 > React Native · Expo · SQLite
 
-### 🤖 [AI Interview Agents](https://ai.thitainfo.com/)
+### 🤖 [AI Interview Agents](https://interviewkaro.com/)
 
 Full-stack SaaS platform for AI-powered multi-agent interactions with pay-per-session interviews and Razorpay payment integration.
 `Multi-Agent AI` `Pay-per-Session` `Razorpay Payments` `SaaS`
@@ -85,7 +85,7 @@ Professional calculators for mathematics, finance, health, technology, and more 
 
 > Next.js · MongoDB · DaisyUI
 
-### ⌨️ [Typer Games](https://typer.thitainfo.com)
+### ⌨️ Typer Games
 
 A collection of fun and interactive typing games to improve your typing speed and accuracy. Multiplayer real-time race mode.
 `Multiplayer` `Real-time` `Race Mode` `Challenge Mode`
